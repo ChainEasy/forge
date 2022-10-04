@@ -3,7 +3,7 @@ pragma solidity ^0.8.13;
 
 import "forge-std/Test.sol";
 
-import "src/CatsiamDeflat.sol";
+import "src/CatSiamDeflat.sol";
 
 contract TestContract is Test {
     Contract c;
